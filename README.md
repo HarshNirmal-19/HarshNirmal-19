@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Nirmal</h1>
 <h3 align="center">Computer Science Student • Data Science • Machine Learning • AI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshnirmal-19" alt="harshnirmal-19" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science, Machine Learning, Artificial Intelligence**
 
 - 📫 How to reach me **nirmalharsh63@gmail.com**
